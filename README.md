@@ -3,7 +3,44 @@ This project is a web-based user registration form that utilizes JavaScript to v
 
 
 
+The form collects the following information from the user:
 
+Username
+1. Email
+2. Phone number
+3. Password
+4. Confirm password
+5. The program checks that each field is valid before allowing the form to be submitted. If any of the fields are invalid, an error message is displayed next to the field.
+
+
+
+<b>Validations</b>
+
+Here's a breakdown of the validation rules for each field:
+
+<b>Username</b>
+
+1. Cannot be blank
+2. Must be at least three characters long
+
+
+<b>Email</b>
+
+1. Cannot be blank
+2. Must be a valid email address (contains an "@" symbol and a dot, with at least one character in between)
+
+<b>Phone number</b>
+
+1. Cannot be blank
+2. Must be exactly 10 digits long
+
+
+<b>Password</b>
+
+1. Cannot be blank
+2. Must be at least six characters long
+3. Confirm password
+4. Must match the value entered in the "Password" field
 
 
   
