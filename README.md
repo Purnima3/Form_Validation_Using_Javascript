@@ -3,6 +3,14 @@ This project is a web-based user registration form that utilizes JavaScript to v
 
 
 
+
+
+
+  
+   
+   
+   
+   
 Formed Website:
 
 
@@ -10,7 +18,7 @@ Formed Website:
 
 
 
-<img width="459" alt="image" src="https://user-images.githubusercontent.com/96184253/228496652-20a31772-757e-4d5d-9bf9-2cbaab1704cf.png">
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/96184253/228496652-20a31772-757e-4d5d-9bf9-2cbaab1704cf.png">
 
 
 
