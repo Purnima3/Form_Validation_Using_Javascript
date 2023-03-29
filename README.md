@@ -4,5 +4,21 @@ This project is a web-based user registration form that utilizes JavaScript to v
 
 
 Formed Website:
-<img width="479" alt="image" src="https://user-images.githubusercontent.com/96184253/228496652-20a31772-757e-4d5d-9bf9-2cbaab1704cf.png">
 
+
+
+
+
+
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/96184253/228496652-20a31772-757e-4d5d-9bf9-2cbaab1704cf.png">
+
+
+
+
+
+Errors for validation:
+
+
+
+
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/96184253/228497373-a082ec8c-d0ed-4813-8604-c75c55cffb1b.png">
